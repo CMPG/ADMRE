@@ -1,0 +1,12 @@
+1000 1000 5 50 0.1 0.01 0.1 500 2
+
+parameter order:
+number of demes
+length of burn-in phase
+number of demes initially colonized
+carrying capacity
+mutation rate 
+migration rate
+selection coefficient
+number of generations to simulate
+number of replicates 
