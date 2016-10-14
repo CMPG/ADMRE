@@ -6,14 +6,14 @@
 #include <math.h>
 #include <vector>
 #include <list>
-#include <range_expansion.h>
-#include <rng.h>
+#include "range_expansion.h"
+#include "rng.h"
 
-#include <boost\math\special_functions\binomial.hpp>
-#include <boost\random\linear_congruential.hpp>
-#include <boost\random\uniform_real.hpp>
-#include <boost\random\variate_generator.hpp>
-#include <boost\random\mersenne_twister.hpp>
+#include <boost/math/special_functions/binomial.hpp>
+#include <boost/random/linear_congruential.hpp>
+#include <boost/random/uniform_real.hpp>
+#include <boost/random/variate_generator.hpp>
+#include <boost/random/mersenne_twister.hpp>
 
 using namespace std;
 using namespace boost::math;

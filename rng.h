@@ -21,7 +21,7 @@
  */
 
 
-#include <boost\random.hpp>
+#include <boost/random.hpp>
 
 extern boost::mt19937 gen;	// Declared externally in main.cpp so that it can be initialized there and called in random.cpp
 
