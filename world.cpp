@@ -6,8 +6,8 @@
 #include <math.h>
 #include <vector>
 #include <list>
-#include <range_expansion.h>
-#include <rng.h>
+#include "range_expansion.h"
+#include "rng.h"
 
 using namespace std;
 
